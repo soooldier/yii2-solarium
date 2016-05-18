@@ -1,5 +1,5 @@
 {
-    "name": "tangy94/yii2-solarium",
+    "name": "soooldier/yii2-solarium",
     "description": "Solarium client for yii2",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ziroom\\Yii2Solarium\\": "src/"
+            "soooldier\\Yii2Solarium\\": "src/"
         }
     }
 }

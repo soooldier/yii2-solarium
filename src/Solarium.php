@@ -1,5 +1,5 @@
 <?php
-namespace ziroom\Yii2Solarium;
+namespace soooldier\Yii2Solarium;
 
 use yii\base\Component;
 
