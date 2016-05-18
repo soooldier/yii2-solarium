@@ -1,0 +1,22 @@
+{
+    "name": "tangy94/yii2-solarium",
+    "description": "Solarium client for yii2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "唐毅",
+            "email": "soooldier@live.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.4",
+        "solarium/solarium": ">=3.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "ziroom\\Yii2Solarium\\": "src/"
+        }
+    }
+}
